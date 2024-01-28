@@ -12,12 +12,17 @@ This project is a replica of the [TBC Academy USAID webpage](https://www.tbcacad
 - **JavaScript**: Employed for interactive sections and dynamic content, enhancing user engagement and functionality.
   
 ## How to Run This Project
-1. **Clone the Repository**:
-- git clone https://github.com/your-username/react-tbc-academy-replica.git
 
-3. **Open the Project Files**:
+1. **Clone the Repository**:
+git clone https://github.com/N1Rizhka/react-tbc-academy-replica.git
+
+2. **Navigate to the Project Directory**:
+cd TBCxUSAID
+
+4. **Open the Project Files**:
 - Open `index.html` to view the HTML structure and JavaScript code for interactive sections.
 - Open `styles.css` to explore the CSS styles for designing sections as in the original page.
+
 4. **Run the Project Locally**:
 - Since this project primarily consists of static files (HTML, CSS, and JavaScript), you can simply open `index.html` in your preferred web browser to view the replica webpage.
 
