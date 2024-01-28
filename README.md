@@ -11,8 +11,7 @@ This project is a replica of the [TBC Academy USAID webpage](https://www.tbcacad
 - **CSS**: Utilized for styling the webpage, ensuring visual fidelity with the TBC Academy USAID webpage.
 - **JavaScript**: Employed for interactive sections and dynamic content, enhancing user engagement and functionality.
   
-## How to Run This Project
-
+## How to Run This Project Locally:
 1. **Clone the Repository**:
 git clone https://github.com/N1Rizhka/TBCxUSAID.git
 
@@ -23,6 +22,9 @@ cd TBCxUSAID
 - Open `index.html` to view the HTML structure and JavaScript code for interactive sections.
 - Open `styles.css` to explore the CSS styles for designing sections as in the original page.
 
-4. **Run the Project Locally**:
+5. **Run the Project Locally**:
 - Since this project primarily consists of static files (HTML, CSS, and JavaScript), you can simply open `index.html` in your preferred web browser to view the replica webpage.
+
+## How to Run This Project on GitHub:
+- You can open this link: https://raw.githack.com/N1Rizhka/TBCxUSAID/main/index.html
 
