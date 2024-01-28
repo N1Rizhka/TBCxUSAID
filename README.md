@@ -14,7 +14,7 @@ This project is a replica of the [TBC Academy USAID webpage](https://www.tbcacad
 ## How to Run This Project
 
 1. **Clone the Repository**:
-git clone https://github.com/N1Rizhka/react-tbc-academy-replica.git
+git clone https://github.com/N1Rizhka/TBCxUSAID.git
 
 2. **Navigate to the Project Directory**:
 cd TBCxUSAID
